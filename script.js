@@ -1,0 +1,1 @@
+// Aquí puedes agregar funciones como abrir WhatsApp en otra pestaña, efectos, etc.
